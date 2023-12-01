@@ -6,7 +6,7 @@
 ||tiktok*.com^$client='127.0.0.1'
 ||*f*b*.com^$client='192.168.8.137'
 ||*f*b*.com^$client='127.0.0.1'
-||*x*h*s*.com^$important
+!||*x*h*s*.com^$important
 ||*k*ai*.com^$important
 ||analytics.google.com^$important
 /ntp/$client='192.168.8.169'
