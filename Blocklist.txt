@@ -30,4 +30,4 @@
 @@||docs.gl-inet.com^$client='127.0.0.1'
 ||feed-*.capcutapi.com^$client='192.168.8.137'
 ||feed-*.capcutapi.com^$client='127.0.0.1'
-||yximgs.com^$important
+||/yximgs/^$important
