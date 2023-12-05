@@ -1,0 +1,134 @@
+! Stored text
+# https://mylink.la/pss_smk_kota_kemuning
+! End of stored text
+# common adname
+#/ad/
+/ads/
+/adservice/
+/advertising/
+# common data collection
+/analytics/
+# common TLD
+/*.zip/
+/*.lan/$client=192.168.8.169
+# dns reverse lookup
+||in-addr.arpa^
+# YouTube
+||ytimg.com^$client=192.168.8.169
+# Google
+/client/
+#/ampproject/
+#/ggpht/
+/googleadservices/$client=192.168.8.169
+/googleapis/$client=192.168.8.169
+#||*.goog^
+||googleadservices.com^
+||googleanalytics.com^
+||googleapis.com^$client=192.168.8.169
+||googletagmanager.com^$client=192.168.8.169
+||gstatic.com^$client=192.168.8.169
+@@||youtubei.googleapis.com^
+/www.gooo*gle.com/$client=192.168.8.169
+# tiktok domain
+/*tiktok*/$client=192.168.8.169
+||tiktokv.com^$client=192.168.8.169
+||tiktokcdn.com^$client=192.168.8.169
+||tiktokcdn-us.com^$client=192.168.8.169
+||ttlivecdn.com^$client=192.168.8.169
+||zz123.com^$client=192.168.8.169
+# 快手
+/kuaishou/$client=192.168.8.169
+/kuai/$client=192.168.8.169
+/kwai/$client=192.168.8.169
+/kmovie/$client=192.168.8.169
+/ks/$client=192.168.8.169
+||kuaishou.com^$client=192.168.8.169
+||kuaishouzt.com^$client=192.168.8.169
+||kwaicdn.com^$client=192.168.8.169
+||kwaixiaodian.com^$client=192.168.8.169
+||kwimgs.com^$client=192.168.8.169
+||ksyun.com^$client=192.168.8.169
+||kspkg.com^$client=192.168.8.169
+||adkwai.com^$client=192.168.8.169
+||eckwai.com^$client=192.168.8.169
+||ecukwai.com^$client=192.168.8.169
+||oskwai.com^$client=192.168.8.169
+||inkuai.com^$client=192.168.8.169
+||yximgs.com^$client=192.168.8.169
+||httpdns.pro^$client=192.168.8.169
+||gifshow.com^$client=192.168.8.169
+||xxpkg.com^$client=192.168.8.169
+# 阿里巴巴
+/ali/
+||etoote.com^$client=192.168.8.169
+||video-voip.com^$client=192.168.8.169
+||live-voip.com^$client=192.168.8.169
+||alicdn.com^$client=192.168.8.169
+||aliyun.com^$client=192.168.8.169
+||haoge500.com^$client=192.168.8.169
+# 小红书
+||xiaohongshu.com^$client=192.168.8.169
+||xhscdn.com^$client=192.168.8.169
+# Instagram
+/instagram/$client=192.168.8.169
+||instagram.com^$client=192.168.8.169
+# Facebook
+#/facebook/
+/fb/$client=192.168.8.169
+||facebook.com^$client=192.168.8.169
+||fbcdn.net^$client=192.168.8.169
+# YouTube
+||ytimg.com^$client=192.168.8.169
+# Apple
+#/apple/
+#/icloud/
+@@||apple.com^
+# 腾讯
+/qq/$client=192.168.8.169
+||qq.com^$client=192.168.8.169
+||myqcloud.com^$client=192.168.8.169
+# httpdns
+/httpdns/$client=192.168.8.169
+# 网宿
+||chinanetcenter.com^$client=192.168.8.169
+# Amazon
+/amazon/
+/amazonaws/
+||amazon.com^
+||amazonaws.com^
+# Sentry
+||sentry-cdn.com^
+||getsentry.com^
+# Bugsnag
+||bugsnag.com^
+# Yahoo
+||yahoo.com^
+||yahooinc.com^
+# Yandex
+||yandex.ru^
+||yandex.net^
+# Akamai (maybe Computer Clan (Krazy Ken) that is sponsored by Linode?)
+/akamai/$client=192.168.8.169
+# Samsung
+/samsung/
+@@||samsung.com^
+# Line
+/line/$client=192.168.8.169
+# GeeTest Bot Prevention
+/geetest/
+||geetest.com^
+# 360公司 (网络病毒）
+/qh/
+/360/
+# LUDOO GAMES (一家致力於為台灣、香港、澳門以及東南亞廣大用戶提供優質手機遊戲發行商)
+/ludoogame/
+# 酷我 （好讨厌）
+/kuwo/
+||cspserver.net^$client='192.168.8.165'
+# Scratch
+@@||scratch.mit.edu^
+@@||login.microsoftonline.com
+@@||client.wns.windows.com^$important
+@@||online.anyflip.com^$important
+@@||downloads.sourceforge.net^$important
+@@/download/
