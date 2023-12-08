@@ -30,3 +30,4 @@
 ||feed-*.capcutapi.com^$client='192.168.8.137'
 ||feed-*.capcutapi.com^$client='127.0.0.1'
 ||/yximgs/^$important
+||sentry.io^$important
