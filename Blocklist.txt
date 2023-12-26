@@ -42,6 +42,6 @@
 ||feed-*.capcutapi.com^$client='192.168.8.153'
 ||/yximgs/^$important
 ||sentry.io^$important
-||nel.heroku.com^$important
-||bzib.nelreports.net^$important
+||heroku.com^$important
+||nelreports.net^$important
 /yandex/^$important
