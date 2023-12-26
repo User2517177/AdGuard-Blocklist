@@ -44,3 +44,4 @@
 ||sentry.io^$important
 ||nel.heroku.com^$important
 ||bzib.nelreports.net^$important
+/yandex/^$important
