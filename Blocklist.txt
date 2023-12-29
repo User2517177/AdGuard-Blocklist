@@ -4,10 +4,8 @@
 ||byteoversea.com^$important
 ||tiktok*.com^$client='192.168.8.137'
 ||tiktok*.com^$client='127.0.0.1'
-||tiktok*.com^$client='192.168.8.153'
 ||*f*b*.com^$client='192.168.8.137'
 ||*f*b*.com^$client='127.0.0.1'
-#||*f*b*.com^$client='192.168.8.153'
 !||*x*h*s*.com^$important
 ||analytics.google.com^$important
 /ntp/$client='192.168.8.169'
@@ -15,7 +13,6 @@
 @@/dbankcloud/$client='192.168.8.103'
 ||*instagram*.com^$client='192.168.8.137'
 ||*instagram*.com^$client='127.0.0.1'
-||*instagram*.com^$client='192.168.8.153'
 ||isnssdk.com^$client='192.168.8.137'
 ||isnssdk.com^$client='127.0.0.1'
 ||isnssdk.com^$client='192.168.8.153'
