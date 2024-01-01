@@ -8,4 +8,4 @@ The repository also contains a official AdGuard DNS filter included. The filter 
 
 The official filter would be a archive in case you want to retain the current filter prefrences. ONLY IF YOU WANT TO RETAIN, just use the official filter that would get updated regularly.
 
-Update: Don't look into the "IntrusiveSite.txt". Use this instead: https://raw.githubusercontent.com/User2517177/AdGuard-Blocklist/main/IntrusiveSite.txt
+Update: Don't look into "IntrusiveSite.txt". Copy this into Adguard Home DNS Blocklist instead: https://raw.githubusercontent.com/User2517177/AdGuard-Blocklist/main/IntrusiveSite.txt
