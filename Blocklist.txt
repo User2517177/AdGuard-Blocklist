@@ -45,4 +45,3 @@
 ||heroku.com^$important
 ||nelreports.net^$important
 /yandex/^$important
-||akamai.net^$important
