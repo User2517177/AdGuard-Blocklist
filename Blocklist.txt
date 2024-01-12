@@ -45,4 +45,5 @@
 ||heroku.com^$important
 ||nelreports.net^$important
 /yandex/^$important
-||graph.facebook.com^$improtamt
+||graph.facebook.com^$important
+||edge-mqtt.facebook.com^$important
