@@ -4,7 +4,7 @@
 /kwai/$client=192.168.8.169
 /kmovie/$client=192.168.8.169
 /ks/$client=192.168.8.169
-||*k*ai*.com^$important
+!||*k*ai*.com^$important
 ||kuaishou.com^$client=192.168.8.169
 ||kuaishouzt.com^$client=192.168.8.169
 ||kwaicdn.com^$client=192.168.8.169
