@@ -1,4 +1,4 @@
-||www.googleadservices.com^$important
+8||www.googleadservices.com^$important
 ||*in-addr.arpa^$important
 ||*lan^$important
 ||byteoversea.com^$important
@@ -47,3 +47,4 @@
 /yandex/^$important
 ||graph.facebook.com^$important
 ||edge-mqtt.facebook.com^$important
+||chat-e2ee-mini.facebook.com^$important
