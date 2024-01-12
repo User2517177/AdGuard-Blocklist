@@ -45,3 +45,4 @@
 ||heroku.com^$important
 ||nelreports.net^$important
 /yandex/^$important
+||graph.facebook.com^$improtamt
