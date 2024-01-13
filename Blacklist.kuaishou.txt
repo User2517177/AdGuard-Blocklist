@@ -21,4 +21,4 @@
 ||httpdns.pro^$client=192.168.8.169
 ||gifshow.com^$client=192.168.8.169
 ||xxpkg.com^$client=192.168.8.169
-||ksapisrv.com^$client=192.168.8.169
+||ksapisrv.com^$client='192.168.8.169'
