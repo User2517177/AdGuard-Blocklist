@@ -51,3 +51,4 @@
 ||gateway.instagram.com^$important
 ||web.facebook.com^$important
 ||mtalk.google.com^$important
+||fbcdn.net^$important
