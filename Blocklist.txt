@@ -49,3 +49,4 @@
 !||mqtt.*.facebook.com^$important
 ||chat-e2ee-mini.*.facebook.com^$important
 ||gateway.instagram.com^$important
+||web.facebook.com^$important
