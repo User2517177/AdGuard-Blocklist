@@ -45,7 +45,7 @@
 ||heroku.com^$important
 ||nelreports.net^$important
 /yandex/^$important
-||/graph/^$important
+/graph/^$important
 !||mqtt.*.facebook.com^$important
 ||chat-e2ee-mini.*.facebook.com^$important
 ||gateway.*.com^$important
