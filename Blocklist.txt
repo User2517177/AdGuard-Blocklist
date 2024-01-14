@@ -48,7 +48,7 @@
 ||/graph/^$important
 !||mqtt.*.facebook.com^$important
 ||chat-e2ee-mini.*.facebook.com^$important
-||gateway.instagram.com^$important
+||gateway.*.com^$important
 ||web.facebook.com^$important
 ||mtalk.google.com^$important
 ||fbcdn.net^$important
