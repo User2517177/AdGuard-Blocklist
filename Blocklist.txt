@@ -5,9 +5,9 @@
 ||tiktok*.com^$client='192.168.8.137'
 ||tiktok*.com^$client='127.0.0.1'
 ||tiktok*.com^$client='192.168.8.153'
-||f*b*.com^$client='192.168.8.137'
-||f*b*.com^$client='127.0.0.1'
-||f*b*.com^$client='192.168.8.153'
+||f*b*.*^$client='192.168.8.137'
+||f*b*.*^$client='127.0.0.1'
+||f*b*.*^$client='192.168.8.153'
 !||*x*h*s*.com^$important
 ||analytics.google.com^$important
 /ntp/$client='192.168.8.169'
