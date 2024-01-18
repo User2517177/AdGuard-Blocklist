@@ -38,3 +38,9 @@
 ||heroku.com^$important
 ||nelreports.net^$important
 /yandex/^$important
+||ghabovethec.info^$important
+||ioniamcurr.info^$important
+||xukpresesmr.info^$important
+||railplant.website^$important
+||preparedfile.com^$important
+||7eer.net^$important
