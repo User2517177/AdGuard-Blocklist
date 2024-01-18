@@ -1,6 +1,6 @@
 ||www.googleadservices.com^$important
 ||*in-addr.arpa^$important
-||*lan^$important
+!||*lan^$important
 ||byteoversea.com^$important
 ||tiktok*.com^$client='192.168.8.137'
 ||tiktok*.com^$client='127.0.0.1'
@@ -22,15 +22,9 @@
 ||gameloft.com^$client='192.168.8.137'
 ||gameloft.com^$client='127.0.0.1'
 ||gameloft.com^$client='192.168.8.153'
-||*.ru^$client='192.168.8.137'
-||*.ru^$client='127.0.0.1'
-||*.ru^$client='192.168.8.153'
 /outbrain/^$client='192.168.8.137'
 /outbrain/^$client='127.0.0.1'
 /outbrain/^$client='192.168.8.153'
-||*.cn^$client='192.168.8.137'
-||*.cn^$client='127.0.0.1'
-||*.cn^$client='192.168.8.153'
 ||169.*^$client='192.168.8.137'
 ||169.*^$client='127.0.0.1'
 ||169.*^$client='192.168.8.153'
@@ -40,7 +34,6 @@
 ||feed-*.capcutapi.com^$client='192.168.8.137'
 ||feed-*.capcutapi.com^$client='127.0.0.1'
 ||feed-*.capcutapi.com^$client='192.168.8.153'
-||/yximgs/^$important
 ||sentry.io^$important
 ||heroku.com^$important
 ||nelreports.net^$important
