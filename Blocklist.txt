@@ -10,8 +10,6 @@
 ||f*b*.*^$client='192.168.8.153'
 !||*x*h*s*.com^$important
 ||analytics.google.com^$important
-/ntp/$client='192.168.8.169'
-/time/$client='192.168.8.169'
 @@/dbankcloud/$client='192.168.8.103'
 ||*instagram*.com^$client='192.168.8.137'
 ||*instagram*.com^$client='127.0.0.1'
@@ -49,9 +47,7 @@
 @@||youtube.com^$client='192.168.8.153'
 ||match.com^$important
 ||penis-enhancement-secrets.com^$important
-||scdn.co^$client='192.168.8.169'
 @@||displaycatalog.mp.microsoft.com^$important
-/spotify/^$client='192.168.8.169'
 @@||tiny10.com^$client='192.168.8.153'
 @@||uploadhaven.com^$important
 ||ntlysearchingf.info^$important
