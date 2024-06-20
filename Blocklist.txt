@@ -3,11 +3,9 @@
 !||*lan^$important
 ||byteoversea.com^$important
 ||tiktok*.com^$client='192.168.8.137'
-||f*b*.*^$client='192.168.8.137'
 !||*x*h*s*.com^$important
 ||analytics.google.com^$important
 @@/dbankcloud/$client='192.168.8.103'
-||*instagram*.com^$client='192.168.8.137'
 ||isnssdk.com^$client='192.168.8.137'
 ||isnssdk.com^$client='127.0.0.1'
 ||isnssdk.com^$client='192.168.8.153'
